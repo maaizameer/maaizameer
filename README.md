@@ -12,6 +12,6 @@
 
 🏆 I'm proud of the progress I've made so far, and I'm eager to continue pushing the boundaries of my abilities. Let's connect and embark on this coding journey together!
 
-📫 Feel free to reach out to me via email at [maaizameer@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/maaiz-ameer-36ba6a244/)).
+📫 Feel free to reach out to me via email at [maaizameer@gmail.com] or connect with me on [LinkedIn]((https://www.linkedin.com/in/maaiz-ameer-36ba6a244/)).
 
 Happy coding! 🚀
