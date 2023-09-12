@@ -2,7 +2,7 @@
 
 ### Web Developer | HTML | CSS | JavaScript
 
-👋 Hello there! I'm Maaiz Ameer, a passionate web developer with a strong flair for HTML, CSS, and JavaScript. My journey in programming is a continuous learning experience, and I'm always excited to take on new challenges and create meaningful projects.
+👋 Hello there! I'm Maaiz Ameer, a passionate web developer with a strong flair for HTML, CSS, and JavaScript, React, Express, Node, Git, Github etc. My journey in programming is a continuous learning experience, and I'm always excited to take on new challenges and create meaningful projects.
 
 💻 Currently, I'm focusing on honing my skills in web development and diving deeper into the world of front-end technologies. I find immense joy in crafting elegant and user-friendly interfaces that bring ideas to life on the web.
 
